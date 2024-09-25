@@ -11,8 +11,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'Geografia ?',
+    'geografia ',
+    'Qual o planeta mai proximo do sol?',
     'O planeta mais proximo so Sol e Mercurio'
 )
 
